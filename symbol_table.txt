@@ -1,0 +1,2 @@
+name: x  -  type: float  -  size: 1  -  mem: 4
+name: y  -  type: float  -  size: 1  -  mem: 4
